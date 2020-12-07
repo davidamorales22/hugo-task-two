@@ -27,7 +27,7 @@
     Navegando en el foldar, ejectuar instalación de dependencias
 
     ```shell
-    cd hugo-task-one/
+    cd hugo-task-two/
     npm install
     ```
 4.  **El sitio ya esta corriendo.**
